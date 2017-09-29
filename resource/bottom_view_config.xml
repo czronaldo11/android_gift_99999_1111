@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="GB2312"?>
+<!--
+ selectColor:选中颜色
+ unSelectColor:非选中颜色
+ startTime:配置生效时间
+ endTime:配置失效时间
+ -->
+<config selectColor="#ff0000" unSelectColor="@00ff00" startTime="2017-9-29 00:00:00" endTime="2017-9-30 00:00:00" />
